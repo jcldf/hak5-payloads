@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 
 """
-Author: [Seu Nome]
+Author: Julio Della Flora
 Title: arp_sniffer_payload
 Description: 
     This payload captures ARP packets to identify devices on the local network.
